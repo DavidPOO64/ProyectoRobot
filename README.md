@@ -1,5 +1,5 @@
 # ProyectoRobot
-Debo cargar spyder 
-Debo crear los codigos por separado para los diferentes modulos los cuales son: RobotView, RobotModel, RobotController
-Debo ejecutar el codigo llamado main para poder comprobar que el codigo esta bien 
-debo subir el codigo tanto al avac y al GitHub
+1.- Abrir la aplicacion Spyder 
+2.- Crear una carpeta con el nombre del proyecto, almacernar los modulos con la arquitectura Vista-Controlador
+3.- Los modulos amtes mencionados se encuentran ya creados en el archivivo .zip con el nombre "ROBOTCITO2.0"
+4.- En el archivo de main.py ejecutar el codigo y se nos mostrara la opciones que tiene nuestro brazo robot 
